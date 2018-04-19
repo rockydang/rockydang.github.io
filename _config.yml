@@ -91,10 +91,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Apple",
-        href: "https://apple.com"
+        title: "杜慎芝",
+        href: "http://dushenzhi.top/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "alibaba",
+        href: "http://www.alibaba.com/"
     }
 ]
