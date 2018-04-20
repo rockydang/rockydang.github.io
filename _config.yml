@@ -91,10 +91,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "杜慎芝",
+        title: "石昊",
         href: "http://dushenzhi.top/"
     },{
-        title: "凌升杭",
+        title: "牧之",
         href: "http://lingo0.github.io/"
     }
 ]
