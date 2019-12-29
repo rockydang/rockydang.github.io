@@ -258,6 +258,8 @@
 <!-- gittalk start -->
     <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
     <script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
+    <script src="https://cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.min.js"></script>
+
     <div id="gitalk-container">   
         <script type="text/javascript">
         var gitalk = new Gitalk({
@@ -267,7 +269,7 @@
             repo: 'gittalk',
             owner: 'rockydang',
             admin: ['rockydang'],
-            id: location.pathname,
+            id: md5(location.pathname),
         });
         gitalk.render('gitalk-container');
         </script> 
