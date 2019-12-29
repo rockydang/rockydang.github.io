@@ -87,7 +87,6 @@ chrome-tab-theme-color: "#000000"
 service-worker: true
 
 
-
 # Friends
 friends: [
     {
@@ -99,5 +98,14 @@ friends: [
     },{
         title: "与非",
         href: "https://my.csdn.net/huangshanchun"
+    },{
+        title: "竹箨",
+        href: "http://zhouyuhong.top/"
+    },{
+        title: "叔白",
+        href: "https://blog.csdn.net/u010251278/"
+    },{
+        title: "文询",
+        href: "http://zhangyinyue.com/"
     }
 ]
