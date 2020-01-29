@@ -4,7 +4,7 @@ title:      Mamba Never Out
 subtitle:   
 date:       2020-01-29
 author:     rockybobo
-header-img: img/kobe/kobe_family
+header-img: img/kobe/kobe_family.png
 catalog: true
 tags:
     - 生活
@@ -22,7 +22,4 @@ tags:
 
 ​    谢谢你  科比！！！
 
-```html
-<img src="img/kobe/kobe.jpg" alt="kobe" style="width:200px;display:inline">
-```
-
+![kobe](img/kobe/kobe.png)
