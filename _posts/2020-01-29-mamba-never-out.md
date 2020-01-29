@@ -4,7 +4,7 @@ title:      Mamba Never Out
 subtitle:   
 date:       2020-01-29
 author:     rockybobo
-header-img: img/kobe/kobe.jpg
+header-img: img/myname/post_20170212_01.jpg
 catalog: true
 tags:
     - 生活
@@ -25,3 +25,6 @@ typora-root-url: ../source
 
 ![](/../../source/images/2020-01-29-mamba-never-out/kobe.png)
 
+
+
+​     ![](/../../source/images/2020-01-29-mamba-never-out/kobe.jpg)
