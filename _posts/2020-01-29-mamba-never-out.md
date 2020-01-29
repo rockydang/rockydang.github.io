@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      mamba never out
+title:      Mamba Never Out
 subtitle:   
 date:       2020-01-29
 author:     rockybobo
@@ -12,7 +12,7 @@ tags:
 
 ### Mamaba Nerver Out
 
- 你曾说过   退役不是永别    忘记才是
+你曾说过   退役不是永别    忘记才是
 
 但现在的你  却突然宣布从世界退役了
 
@@ -22,5 +22,7 @@ tags:
 
 ​    谢谢你  科比！！！
 
-![kobe](/Users/max/devproject/rockydang.github.io/img/kobe/kobe.png)
+```html
+<img src="img/kobe/kobe.jpg" alt="kobe" style="width:200px;display:inline">
+```
 
