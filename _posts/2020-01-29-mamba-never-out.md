@@ -11,7 +11,7 @@ tags:
 typora-root-url: ../source
 ---
 
-### Mamaba Nerver Out
+### Mamaba Never Out
 
 你曾说过   退役不是永别    忘记才是
 
