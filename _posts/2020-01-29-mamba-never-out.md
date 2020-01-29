@@ -25,6 +25,6 @@ typora-root-url: ../source
 
 ![](/../../source/images/2020-01-29-mamba-never-out/kobe.png)
 
-​     ###  Heros Come And Go,But Legends Are Forever!
+     ###  Legends Are Forever
 
 ​     ![](/../../source/images/2020-01-29-mamba-never-out/kobe.jpg)
