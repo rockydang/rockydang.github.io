@@ -25,7 +25,7 @@ typora-root-url: ../source
 
 ​       即使全世界抛弃了我，还有篮球陪着我！
 
-​       ![](/../../source/images/2020-01-29-mamba-forever/kobe-0291685.jpg)
+​        ![](/../../source/images/2020-01-29-mamba-forever/kobe-1.jpg)
 
 ### Mamaba Never Out
 
