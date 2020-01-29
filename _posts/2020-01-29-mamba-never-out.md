@@ -4,10 +4,11 @@ title:      Mamba Never Out
 subtitle:   
 date:       2020-01-29
 author:     rockybobo
-header-img: img/kobe/kobe_family.jpg
+header-img: img/kobe/kobe1.jpg
 catalog: true
 tags:
     - 生活
+typora-root-url: ../img
 ---
 
 ### Mamaba Nerver Out
@@ -22,4 +23,4 @@ tags:
 
 ​    谢谢你  科比！！！
 
-![kobe](img/kobe/kobe.png)
+![kobe](/kobe/kobe.png)
