@@ -8,7 +8,7 @@ header-img: img/kobe/kobe1.jpg
 catalog: true
 tags:
     - 生活
-typora-root-url: ../img
+typora-root-url: ../source
 ---
 
 ### Mamaba Nerver Out
@@ -23,4 +23,5 @@ typora-root-url: ../img
 
 ​    谢谢你  科比！！！
 
-![kobe](/kobe/kobe.png)
+![](/../../source/images/2020-01-29-mamba-never-out/kobe.png)
+
