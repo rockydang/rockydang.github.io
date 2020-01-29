@@ -11,6 +11,8 @@ tags:
 typora-root-url: ../source
 ---
 
+#  谨以纪念 Kobe Bryant 
+
 ### Legends Are Forever
 
 ​       当我退役的时候，我希望回头看我走过的路， 每一天，我都付出了我全部！
@@ -23,9 +25,7 @@ typora-root-url: ../source
 
 ​       即使全世界抛弃了我，还有篮球陪着我！
 
-​                                                                                                          --Kobe Bryant
-
-​     ![](/../../source/images/2020-01-29-mamba-never-out/kobe.jpg)
+​       ![](/../../source/images/2020-01-29-mamba-forever/kobe-0291485.jpg)
 
 ### Mamaba Never Out
 
@@ -37,6 +37,6 @@ typora-root-url: ../source
 
 因为这是你教会我   最重要的事
 
-​    谢谢你  科比！！！
+​    **谢谢你  科比！！！**
 
-![](/../../source/images/2020-01-29-mamba-never-out/kobe.png)
+![](/../../source/images/2020-01-29-mamba-forever/kobe.png)
